@@ -8,6 +8,10 @@ div {
   margin: 0 auto;
 }
 
+div:hover {
+  height: 200px;
+}
+
 #header {
   background-color: blue;
 }
