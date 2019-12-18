@@ -1,8 +1,11 @@
+body {
+  margin: 0;
+}
+
 div {
   height: 100px;
   width: 300px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 #header {
@@ -24,8 +27,4 @@ div {
 
 .surprising {
   background-color: #ffa500;
-}
-
-body {
-  margin: 0;
 }
